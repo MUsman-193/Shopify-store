@@ -10,7 +10,7 @@ function Footer() {
             <footer className='footer_main_container'>
                 <div className="footer_container">
                     <div className="footer_logo">
-                        <div className="footer_logo"> <img src={logo} alt="" /> </div>
+                        <div className="footer_logo"> <img src={logo} alt="" />  </div>
                     </div>
                     <div className="footer_input_container">
                         <div className="footer_input">
