@@ -1,0 +1,91 @@
+[
+    {
+        "id" : 1,
+        "image" : "./products/img1.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"5",
+        "price": "1,240",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "40"
+    },
+    {
+        "id" : 2,
+        "image" : "./products/img2.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"4",
+        "price": "1,040",
+        "currencyPrefix": "Rs."
+    },
+    {
+        "id" : 3,
+        "image" : "./products/img3.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"3",
+        "price": "540",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "5"
+    },
+    {
+        "id" : 4,
+        "image" : "./products/img1.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"5",
+        "price": "1,240",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "40"
+    },
+    {
+        "id" : 5,
+        "image" : "./products/img2.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"4",
+        "price": "1,040",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "20"
+    },
+    {
+        "id" : 6,
+        "image" : "./products/img3.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"3",
+        "price": "540",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "5"
+    },
+    {
+        "id" : 7,
+        "image" : "./products/img1.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"5",
+        "price": "1,240",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "40"
+    },
+    {
+        "id" : 8,
+        "image" : "./products/img2.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"4",
+        "price": "1,040",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "20"
+    },
+    {
+        "id" : 9,
+        "image" : "./products/img3.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"3",
+        "price": "540",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "5"
+    },
+    {
+        "id" : 10,
+        "image" : "./products/img3.jpg",
+        "description":"The Ordinary Salicylic Acid 2% Solution",
+        "stars" :"3",
+        "price": "540",
+        "currencyPrefix": "Rs.",
+        "discountPerc": "5"
+    }
+]

@@ -1,0 +1,123 @@
+
+.product_card {
+    border: 1px solid var(--primary-color);
+    border: 1px solid  rgba(248, 93, 137, 0.411);
+    padding-bottom: 20px;
+    margin: auto;
+}
+.product_card_img {
+    overflow: hidden;
+}
+.product_card_img img {
+    width: 100%;
+    transition: all .3s linear;
+}
+.product_card_img img:hover{
+    transform: scale(1.1);
+}
+
+.product_card_text {
+    padding: 0px 8px;
+    color: rgba(0, 0, 0, 0.672);
+}
+
+.product_card_star {
+    padding: 7px 8px;
+}
+
+.product_card_star ul {
+    display: flex;
+    list-style: none;
+}
+
+.product_card_star ul li.fill {
+    color: #ff6900;
+}
+.product_card_star ul li.no-fill {
+    color: rgb(206, 206, 206);
+}
+
+.product_card_price_tag {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 8px;
+}
+
+.product_card_price_tag .price {
+    color: var(--primary-color);
+    font-size: 18px;
+}
+
+.product_card_price_tag .tag {
+    background-color: var(--primary-color);
+    color: white;
+    font-size: 10px;
+    padding: 4px 4px 4px 15px;
+    position: relative;
+}
+
+.product_card_price_tag .tag::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    border-width: 0px 0px 10px 5px;
+    border-style: solid;
+    border-color: var(--primary-color) white;
+    /* border-color: black white ; */
+}
+
+.product_card_price_tag .tag::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-width: 10px 0px 0px 5px;
+    border-style: solid;
+    border-color: var(--primary-color) white;
+    /* border-color: black  white; */
+}
+
+@media screen and (max-width:835px) {
+    .product_card_text {
+        font-size: 14px;
+    }
+
+    .product_card_price_tag .price {
+        font-size: 16px;
+    }
+
+    .product_card_price_tag .tag {
+        padding: 4px 4px 4px 12px;
+    }
+}
+
+
+@media screen and (max-width:535px) {
+    .product_card_text {
+        font-size: 13px;
+    }
+
+    .product_card_price_tag .price {
+        font-size: 15px;
+    }
+
+    .product_card_price_tag .tag {
+        padding: 4px 4px 4px 10px;
+    }
+}
+@media screen and (max-width:350px) {
+    .product_card_text {
+        font-size: 12px;
+        margin: 5px 0px;
+    }
+
+    .product_card_price_tag .price {
+        font-size: 14px;
+    }
+    .product_card_price_tag .tag {
+        font-size: 9px;
+        padding: 4px 4px 4px 8px;
+    }
+}

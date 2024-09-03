@@ -1,0 +1,27 @@
+.bestBrand_heading{
+    width: 95%;
+    margin: auto;
+    font-weight: 600;
+    color: var(--text);
+    @media (max-width:920px) {
+        font-size: 25px;
+    }
+    @media (max-width:600px) {
+        font-size: 20px;
+    }
+}
+.slider_container{
+    padding-bottom: 30px;
+    background-color: white;
+    .best_brand_img{
+        width: 213px !important;
+    }
+    .slick-prev {
+        left: 25px;
+        z-index: 33;
+    }
+    .slick-next {
+        right: 25px;
+        z-index: 33;
+    }
+}
