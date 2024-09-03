@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand.png"
+        "image": "./bestBrand/bestBrand.png"
     },
     {
         "id": 2,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_2.png"
+        "image": "./bestBrand/bestBrand_2.png"
     },
     {
         "id": 3,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_3.png"
+        "image": "./bestBrand/bestBrand_3.png"
     },
     {
         "id": 4,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_4.png"
+        "image": "./bestBrand/bestBrand_4.png"
     },
     {
         "id": 5,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_5.png"
+        "image": "./bestBrand/bestBrand_5.png"
     },
     {
         "id": 6,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_6.png"
+        "image": "./bestBrand/bestBrand_6.png"
     },
     {
         "id": 7,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_7.png"
+        "image": "./bestBrand/bestBrand_7.png"
     },
     {
         "id": 8,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_8.png"
+        "image": "./bestBrand/bestBrand_8.png"
     },
     {
         "id": 9,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_9.png"
+        "image": "./bestBrand/bestBrand_9.png"
     },
     {
         "id": 10,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_10.png"
+        "image": "./bestBrand/bestBrand_10.png"
     },
     {
         "id": 11,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_11.png"
+        "image": "./bestBrand/bestBrand_11.png"
     },
     {
         "id": 12,
-        "image": "../src/assets/image/Home_images/bestBrand/bestBrand_12.png"
+        "image": "./bestBrand/bestBrand_12.png"
     }
 ]
